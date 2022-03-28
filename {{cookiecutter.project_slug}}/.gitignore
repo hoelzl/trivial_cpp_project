@@ -1,0 +1,7 @@
+**/build/
+**/clion-*/
+**/out/
+**/.vs/
+**/.vscode/
+**/.idea/
+**/.clion/
